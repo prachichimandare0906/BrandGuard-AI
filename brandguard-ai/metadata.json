@@ -1,0 +1,6 @@
+{
+  "name": "BrandGuard AI",
+  "description": "AI-powered enterprise brand governance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

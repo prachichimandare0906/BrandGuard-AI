@@ -1,0 +1,24 @@
+# Python Requirements for BrandGuard AI (Document Processing & Backend Service Specification)
+# Framework & API
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+
+# AI & Google GenAI SDK
+google-genai>=0.1.0
+
+# Document Processing (PDF, DOCX, TXT)
+PyMuPDF>=1.23.26
+python-docx>=1.1.0
+
+# Database & Storage
+sqlite3
+psycopg2-binary>=2.9.9
+
+# Vector & Image Governance (Round 3 Roadmap)
+chromadb>=0.4.24
+opencv-python-headless>=4.9.0.80
+
+# Utilities
+python-dotenv>=1.0.1
+python-multipart>=0.0.9
